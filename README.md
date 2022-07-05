@@ -1,8 +1,8 @@
-# 那些年，那些事儿 &middot; Flutter
+# 交契 &middot; Flutter
 
 [![Flutter](https://pbs.twimg.com/tweet_video_thumb/FSgIneVXwAIa5CI.jpg)](https://github.com/flutter/flutter)
 
-Hi！Welcome to **那些年，那些事儿** . The general introduction is as follows:
+Hi！Welcome to **交契** . The general introduction is as follows:
 
 * **Build apps by Flutter:** Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 * **Fast:** Flutter code compiles to ARM or Intel machine code as well as JavaScript, for fast performance on any device.
@@ -12,6 +12,10 @@ Hi！Welcome to **那些年，那些事儿** . The general introduction is as fo
 
 > ⚠ Note:
 > [Want to get to know me briefly? Click 🔗 to take a few minutes to learn about me and the code I'm writing](https://github.com/yinleiCoder).
+
+## Why do i name this
+人生交契无老少，论交何必先同调。——唐*杜甫《徒步归行》
+> 注：与朋友交往不必在乎身份地位年龄等之间的差异，重要的是朋友之间能够交心。有道是人之相识贵在相知，人之相知，贵在知心。与知心友相交，其他的世俗事又何必理会呢？
 
 ## Prerequisites
 
@@ -75,7 +79,7 @@ To install and run this project, your development environment must meet these mi
     • No issues found!
     ```
 * Browser: Chrome. You are free to choose your own preferred browser(for example: Firefox)
-* Phone(Virtual/Physical): Pixel_4a_API_30、Pixel_5_API_31、RedMi红米
+* Phone(Virtual/Physical): Pixel_5_API_30、Pixel_5_API_31、RedMi红米
 * Tablet(Virtual/Physical): Pixel_C_API_31
 
 Of course, the above is my current configuration, you can change according to the actual situation
@@ -95,4 +99,4 @@ Thank you!!!
 
 ## License
 
-**那些年，那些事儿** is [GPL-3.0 licensed](./LICENSE).
+**交契** is [GPL-3.0 licensed](./LICENSE).
